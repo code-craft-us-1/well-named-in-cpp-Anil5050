@@ -1,4 +1,4 @@
-#include "colorpair.h"
+#include <ColorPair.h>
 
 
 class TestColor
