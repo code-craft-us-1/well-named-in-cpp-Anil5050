@@ -1,6 +1,6 @@
 #include <iostream>
 #include <assert.h>
-#include "ColorPair.h"
+#include <ColorPair.h>
 
 
 ColorPair::ColorPair(MajorColor major, MinorColor minor):

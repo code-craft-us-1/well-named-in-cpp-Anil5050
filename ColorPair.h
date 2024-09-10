@@ -1,4 +1,4 @@
-#include "colorpair.h"
+#include <ColorPair.h>
 
 enum MajorColor { WHITE, RED, BLACK, YELLOW, VIOLET };
 enum MinorColor { BLUE, ORANGE, GREEN, BROWN, SLATE };
